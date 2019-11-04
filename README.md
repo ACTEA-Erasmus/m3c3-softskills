@@ -1,4 +1,4 @@
-# MXCX - Base course
+# Soft Skill for Engineers
 
 Welcome to the ACTEA base course layout. These course is created to bootstrap all the courses in the ACTEA project. 
 
